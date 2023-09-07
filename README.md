@@ -4,7 +4,7 @@ An UI_Load that imitates the Alola ones. Tested on Essentials v21
 ![](/alola_ui_load.png)
 
 ## How to Install
-Copy all the folders to the root Essentials folder, then run the game.
+[Download the file](https://github.com/abacaxi-queer/Alola-UI-Load/releases/download/v1.0/Alola.UI.Load.zip) and copy all the folders to the root Essentials folder, then run the game.
 
 ## How to Customize
 There are four options inside `UILoad` that allows you to customize it a little more:
