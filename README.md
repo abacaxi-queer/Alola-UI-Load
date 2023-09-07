@@ -1,5 +1,5 @@
 # Alola UI_Load
-An UI_Load that imitates the Alola ones
+An UI_Load that imitates the Alola ones. Tested on Essentials v21
 
 ![](/alola_ui_load.png)
 
