@@ -1,6 +1,8 @@
 # Alola UI_Load
 An UI_Load that imitates the Alola ones
 
+![Alola UI Load](/alola ui load.png)
+
 ## How to Install
 Copy all the folders to the root Essentials folder, then run the game.
 
